@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kochetov")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05bd04539ee5c41e71f648801ee676b712352177")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4295adfe1516001955ecb15d221a7772d1add2fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kochetov")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kochetov")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
