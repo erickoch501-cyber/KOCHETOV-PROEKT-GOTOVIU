@@ -1,0 +1,242 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\test\\KOCHETOV-PROEKT-GOTOVIU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62E2C53E-A21F-2694-A0C2-9647BDF74866}|Kochetov.csproj|d:\\test\\kochetov-proekt-gotoviu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E2C53E-A21F-2694-A0C2-9647BDF74866}|Kochetov.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E2C53E-A21F-2694-A0C2-9647BDF74866}|Kochetov.csproj|d:\\test\\kochetov-proekt-gotoviu\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E2C53E-A21F-2694-A0C2-9647BDF74866}|Kochetov.csproj|solutionrelative:services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\evgen\\AppData\\Local\\SourceServer\\b93bed7387556794da4067475ed28759a07833b7500c8941c335d76243880277\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E2C53E-A21F-2694-A0C2-9647BDF74866}|Kochetov.csproj|d:\\test\\kochetov-proekt-gotoviu\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E2C53E-A21F-2694-A0C2-9647BDF74866}|Kochetov.csproj|solutionrelative:models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E2C53E-A21F-2694-A0C2-9647BDF74866}|Kochetov.csproj|d:\\test\\kochetov-proekt-gotoviu\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62E2C53E-A21F-2694-A0C2-9647BDF74866}|Kochetov.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E2C53E-A21F-2694-A0C2-9647BDF74866}|Kochetov.csproj|d:\\test\\kochetov-proekt-gotoviu\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E2C53E-A21F-2694-A0C2-9647BDF74866}|Kochetov.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E2C53E-A21F-2694-A0C2-9647BDF74866}|Kochetov.csproj|d:\\test\\kochetov-proekt-gotoviu\\controllers\\using microsoft.aspnetcore.mvc;.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E2C53E-A21F-2694-A0C2-9647BDF74866}|Kochetov.csproj|solutionrelative:controllers\\using microsoft.aspnetcore.mvc;.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E2C53E-A21F-2694-A0C2-9647BDF74866}|Kochetov.csproj|d:\\test\\kochetov-proekt-gotoviu\\models\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E2C53E-A21F-2694-A0C2-9647BDF74866}|Kochetov.csproj|solutionrelative:models\\auth\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E2C53E-A21F-2694-A0C2-9647BDF74866}|Kochetov.csproj|d:\\test\\kochetov-proekt-gotoviu\\models\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E2C53E-A21F-2694-A0C2-9647BDF74866}|Kochetov.csproj|solutionrelative:models\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E2C53E-A21F-2694-A0C2-9647BDF74866}|Kochetov.csproj|d:\\test\\kochetov-proekt-gotoviu\\models\\auth\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E2C53E-A21F-2694-A0C2-9647BDF74866}|Kochetov.csproj|solutionrelative:models\\auth\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E2C53E-A21F-2694-A0C2-9647BDF74866}|Kochetov.csproj|d:\\test\\kochetov-proekt-gotoviu\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E2C53E-A21F-2694-A0C2-9647BDF74866}|Kochetov.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E2C53E-A21F-2694-A0C2-9647BDF74866}|Kochetov.csproj|d:\\test\\kochetov-proekt-gotoviu\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E2C53E-A21F-2694-A0C2-9647BDF74866}|Kochetov.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E2C53E-A21F-2694-A0C2-9647BDF74866}|Kochetov.csproj|d:\\test\\kochetov-proekt-gotoviu\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62E2C53E-A21F-2694-A0C2-9647BDF74866}|Kochetov.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62E2C53E-A21F-2694-A0C2-9647BDF74866}|Kochetov.csproj|d:\\test\\kochetov-proekt-gotoviu\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62E2C53E-A21F-2694-A0C2-9647BDF74866}|Kochetov.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\evgen\\AppData\\Local\\SourceServer\\b93bed7387556794da4067475ed28759a07833b7500c8941c335d76243880277\\Program.cs",
+              "ToolTip": "C:\\Users\\evgen\\AppData\\Local\\SourceServer\\b93bed7387556794da4067475ed28759a07833b7500c8941c335d76243880277\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T16:49:39.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\test\\KOCHETOV-PROEKT-GOTOVIU\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\test\\KOCHETOV-PROEKT-GOTOVIU\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-05T12:34:03.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\test\\KOCHETOV-PROEKT-GOTOVIU\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\test\\KOCHETOV-PROEKT-GOTOVIU\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T12:31:00.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\test\\KOCHETOV-PROEKT-GOTOVIU\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\test\\KOCHETOV-PROEKT-GOTOVIU\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAADwv2kAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T12:30:49.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "using Microsoft.AspNetCore.Mvc;.cs",
+              "DocumentMoniker": "D:\\test\\KOCHETOV-PROEKT-GOTOVIU\\Controllers\\using Microsoft.AspNetCore.Mvc;.cs",
+              "RelativeDocumentMoniker": "Controllers\\using Microsoft.AspNetCore.Mvc;.cs",
+              "ToolTip": "D:\\test\\KOCHETOV-PROEKT-GOTOVIU\\Controllers\\using Microsoft.AspNetCore.Mvc;.cs",
+              "RelativeToolTip": "Controllers\\using Microsoft.AspNetCore.Mvc;.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAiwGwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T12:30:27.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "D:\\test\\KOCHETOV-PROEKT-GOTOVIU\\Services\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "Services\\JwtTokenService.cs",
+              "ToolTip": "D:\\test\\KOCHETOV-PROEKT-GOTOVIU\\Services\\JwtTokenService.cs",
+              "RelativeToolTip": "Services\\JwtTokenService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T12:30:13.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\test\\KOCHETOV-PROEKT-GOTOVIU\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\test\\KOCHETOV-PROEKT-GOTOVIU\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T12:29:54.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "D:\\test\\KOCHETOV-PROEKT-GOTOVIU\\Models\\Auth\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "Models\\Auth\\AuthResponse.cs",
+              "ToolTip": "D:\\test\\KOCHETOV-PROEKT-GOTOVIU\\Models\\Auth\\AuthResponse.cs",
+              "RelativeToolTip": "Models\\Auth\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T12:29:44.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\test\\KOCHETOV-PROEKT-GOTOVIU\\Models\\Auth\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\Auth\\LoginRequest.cs",
+              "ToolTip": "D:\\test\\KOCHETOV-PROEKT-GOTOVIU\\Models\\Auth\\LoginRequest.cs",
+              "RelativeToolTip": "Models\\Auth\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T12:29:39.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\test\\KOCHETOV-PROEKT-GOTOVIU\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "D:\\test\\KOCHETOV-PROEKT-GOTOVIU\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T12:27:19.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\test\\KOCHETOV-PROEKT-GOTOVIU\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\test\\KOCHETOV-PROEKT-GOTOVIU\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-05T12:31:32.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\test\\KOCHETOV-PROEKT-GOTOVIU\\Models\\Auth\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Models\\Auth\\RegisterRequest.cs",
+              "ToolTip": "D:\\test\\KOCHETOV-PROEKT-GOTOVIU\\Models\\Auth\\RegisterRequest.cs",
+              "RelativeToolTip": "Models\\Auth\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T12:29:33.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "D:\\test\\KOCHETOV-PROEKT-GOTOVIU\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Models\\JwtSettings.cs",
+              "ToolTip": "D:\\test\\KOCHETOV-PROEKT-GOTOVIU\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T12:29:16.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\test\\KOCHETOV-PROEKT-GOTOVIU\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "D:\\test\\KOCHETOV-PROEKT-GOTOVIU\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T12:28:54.833Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
