@@ -9,10 +9,10 @@ using Kochetov.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Принудительно задаём порт 5000
+
 builder.WebHost.ConfigureKestrel(options =>
 {
-    options.ListenAnyIP(5000);
+    options.ListenAnyIP(5555);
 });
 
 // Добавляем контекст базы данных
